@@ -1,0 +1,47 @@
+{
+      "01NX020": {
+            "name": "Draven",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01NX020.png",
+            "cost": 3
+      },
+      "01NX006": {
+            "name": "Vladimir",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01NX006.png",
+            "cost": 5
+      },
+      "01NX038": {
+            "name": "Darius",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01NX038.png",
+            "cost": 6
+      },
+      "01NX042": {
+            "name": "Katarina",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01NX042.png",
+            "cost": 3
+      },
+      "02NX007": {
+            "name": "Swain",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02NX007.png",
+            "cost": 5
+      },
+      "03NX007": {
+            "name": "Riven",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03NX007.png",
+            "cost": 3
+      },
+      "04NX004": {
+            "name": "LeBlanc",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04NX004.png",
+            "cost": 3
+      },
+      "05NX001": {
+            "name": "Sion",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05NX001.png",
+            "cost": 7
+      },
+      "06NX012": {
+            "name": "Annie",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06NX012.png",
+            "cost": 1
+      }
+}

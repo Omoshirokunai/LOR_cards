@@ -1,0 +1,52 @@
+{
+      "01PZ040": {
+            "name": "Jinx",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ040.png",
+            "cost": 4
+      },
+      "01PZ008": {
+            "name": "Teemo",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ008.png",
+            "cost": 1
+      },
+      "01PZ056": {
+            "name": "Heimerdinger",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ056.png",
+            "cost": 5
+      },
+      "01PZ036": {
+            "name": "Ezreal",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ036.png",
+            "cost": 3
+      },
+      "02PZ008": {
+            "name": "Vi",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02PZ008.png",
+            "cost": 5
+      },
+      "03PZ003": {
+            "name": "Viktor",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ003.png",
+            "cost": 4
+      },
+      "04PZ001": {
+            "name": "Ekko",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ001.png",
+            "cost": 4
+      },
+      "05PZ022": {
+            "name": "Jayce",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ022.png",
+            "cost": 4
+      },
+      "05PZ006": {
+            "name": "Caitlyn",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ006.png",
+            "cost": 3
+      },
+      "06PZ021": {
+            "name": "Seraphine",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ021.png",
+            "cost": 2
+      }
+}

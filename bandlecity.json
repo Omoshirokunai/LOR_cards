@@ -1,0 +1,836 @@
+{
+      "05BC058": {
+            "name": "Kennen",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC058.png",
+            "cost": 1,
+            "type": "champion"
+      },
+      "05BC010": {
+            "name": "Shark Trainer",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC010.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "05BC102": {
+            "name": "Wizened Wizard",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC102.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC230": {
+            "name": "Spirit Portal",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC230.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "05BC099": {
+            "name": "Swole Scout",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC099.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC133": {
+            "name": "Tristana",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC133.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "05BC202": {
+            "name": "Tristana's Buster Shot",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC202.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "05BC023": {
+            "name": "Minitee",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC023.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "05BC029": {
+            "name": "Yuumi",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC029.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "05BC078": {
+            "name": "Electro Harpoon",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC078.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "05BC106": {
+            "name": "Grumbleslug",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC106.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC161": {
+            "name": "Gnar",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC161.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "05BC086": {
+            "name": "Earthshaker",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC086.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05BC073": {
+            "name": "Inventive Chemist",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC073.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "05BC039": {
+            "name": "Gruff Grenadier",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC039.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC148": {
+            "name": "Furious Faefolk",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC148.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "05BC173": {
+            "name": "Salty Spinner",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC173.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC119": {
+            "name": "Minion",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC119.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC019": {
+            "name": "Rainbowfish",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC019.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC093": {
+            "name": "Veigar",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC093.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "05BC007": {
+            "name": "Stone Stackers",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC007.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC174": {
+            "name": "Friendship!",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC174.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "05BC185": {
+            "name": "Shell Game",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC185.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "05BC096": {
+            "name": "Tenor of Terror",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC096.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC088": {
+            "name": "Rumble",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC088.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "05BC190": {
+            "name": "Arena Mechacaster",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC190.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05BC042": {
+            "name": "Purpleberry Shake",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC042.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "05BC205": {
+            "name": "Event Horizon",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC205.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "05BC223": {
+            "name": "Entrapment",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC223.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "05BC091": {
+            "name": "Arena Promoter",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC091.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC172": {
+            "name": "Professor Von Mech",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC172.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC163": {
+            "name": "Ziggs",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC163.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "05BC151": {
+            "name": "Mirror Mage",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC151.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "05BC027": {
+            "name": "Hexplosive Minefield",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC027.png",
+            "cost": 1,
+            "type": "landmark"
+      },
+      "05BC200": {
+            "name": "Yordle Portal",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC200.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05BC021": {
+            "name": "Bouncing Bomb",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC021.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05BC167": {
+            "name": "Bandle Commando",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC167.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC179": {
+            "name": "Yordle Ranger",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC179.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05BC214": {
+            "name": "Mega Inferno Bomb",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC214.png",
+            "cost": 7,
+            "type": "spell"
+      },
+      "05BC221": {
+            "name": "Mushroom Ring",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC221.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC041": {
+            "name": "Poppy",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC041.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "05BC176": {
+            "name": "Prowling Projectile",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC176.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "05BC105": {
+            "name": "Bandle Gunners",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC105.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "05BC066": {
+            "name": "Quick Quill",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC066.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC177": {
+            "name": "Papercraft Dragon",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC177.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05BC136": {
+            "name": "Scrapheap",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC136.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "05BC164": {
+            "name": "Poison Dart",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC164.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "05BC194": {
+            "name": "The Bandle Tree",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC194.png",
+            "cost": 4,
+            "type": "landmark"
+      },
+      "05BC195": {
+            "name": "Prank",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC195.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "05BC216": {
+            "name": "Yordle Contraption",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC216.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "05BC212": {
+            "name": "Safety Inspector",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC212.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05BC141": {
+            "name": "Heroic Refrain",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC141.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05BC209": {
+            "name": "Stress Defense",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC209.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05BC210": {
+            "name": "Flamespitter",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC210.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "05BC196": {
+            "name": "Dunehopper Mech",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC196.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "05BC013": {
+            "name": "Tricksy Tentacles",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC013.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "05BC100": {
+            "name": "Puffcap Pup",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC100.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC098": {
+            "name": "Twisted Catalyzer",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC098.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC122": {
+            "name": "Yordle Newbie",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC122.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC120": {
+            "name": "Yordle Captain",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC120.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC046": {
+            "name": "Thunder Fist",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC046.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC018": {
+            "name": "Pompous Cavalier",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC018.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC132": {
+            "name": "Buster Shot",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC132.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "05BC168": {
+            "name": "Spotted Toad",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC168.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "05BC170": {
+            "name": "Furyhorn Crasher",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC170.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC056": {
+            "name": "Gust Monk",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC056.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC014": {
+            "name": "Teenydactyl",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC014.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC138": {
+            "name": "Fix-Em-Uppers",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC138.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC198": {
+            "name": "Group Shot",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC198.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "05BC181": {
+            "name": "Cloud Stance",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC181.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "05BC160": {
+            "name": "Proto Poro",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC160.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "05BC005": {
+            "name": "Kelp Maidens",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC005.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC079": {
+            "name": "Lil Dipper",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC079.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05BC020": {
+            "name": "Assistant Librarian",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC020.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC049": {
+            "name": "Conchologist",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC049.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC001": {
+            "name": "Minimorph",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC001.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "05BC082": {
+            "name": "Bouncer & Bolt",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC082.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC026": {
+            "name": "Hidden Pathways",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC026.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "05BC152": {
+            "name": "Aloof Travelers",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC152.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC070": {
+            "name": "Ava Achiever",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC070.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05BC015": {
+            "name": "Bitsy Lizard",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC015.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC145": {
+            "name": "Yordle Squire",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC145.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "05BC140": {
+            "name": "Poro Sled",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC140.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "05BC129": {
+            "name": "Arena Kingpin",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC129.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC004": {
+            "name": "Otterpus",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC004.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "05BC155": {
+            "name": "Ember Monk",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC155.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC104": {
+            "name": "Primal Strength",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC104.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "05BC218": {
+            "name": "Fae Aid",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC218.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05BC192": {
+            "name": "Bomber Twins",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC192.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC169": {
+            "name": "Shadowtech Walker",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC169.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC162": {
+            "name": "Chief Nakotak",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC162.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC032": {
+            "name": "Gleaming Lantern",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC032.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC166": {
+            "name": "Pokey Stick",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC166.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "05BC006": {
+            "name": "The Arsenal",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC006.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "05BC110": {
+            "name": "Scholarly Climber",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC110.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC063": {
+            "name": "Tornado Warrior",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC063.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC217": {
+            "name": "Fae Sprout",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC217.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "05BC180": {
+            "name": "Quicken",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC180.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "05BC040": {
+            "name": "Trinket Trade",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC040.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "05BC213": {
+            "name": "Wallop",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC213.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05BC208": {
+            "name": "Heroic Charge",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC208.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "05BC085": {
+            "name": "Bilgerat Rascal",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC085.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC112": {
+            "name": "Blastcone Seedling",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC112.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC135": {
+            "name": "Double Tap",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC135.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "05BC084": {
+            "name": "Squeaker",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC084.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC171": {
+            "name": "Geode Mechaforcer",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC171.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC184": {
+            "name": "Babbling Balladeers",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC184.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC080": {
+            "name": "Smash & Dash",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC080.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC116": {
+            "name": "Bandle City Mayor",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC116.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC111": {
+            "name": "Yordles in Arms ",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC111.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "05BC224": {
+            "name": "Transposition",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC224.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "05BC130": {
+            "name": "Hothead",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC130.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC191": {
+            "name": "Keeper's Verdict",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC191.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "05BC052": {
+            "name": "Treasured Trash",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC052.png",
+            "cost": 10,
+            "type": "spell"
+      },
+      "05BC089": {
+            "name": "Trumpetecher",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC089.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "05BC050": {
+            "name": "Benemone",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC050.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC094": {
+            "name": "Darkbulb Acolyte",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC094.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC146": {
+            "name": "Bandle Painter",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC146.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC235": {
+            "name": "Yordle Smith",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC235.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC175": {
+            "name": "Loping Telescope",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC175.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BC182": {
+            "name": "Lightning Rush",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC182.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05BC127": {
+            "name": "Rissu, The Silent Storm",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC127.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "05BC069": {
+            "name": "Lecturing Yordle",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC069.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC057": {
+            "name": "Stilted Robemaker",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC057.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BC108": {
+            "name": "Yordle Explorer",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC108.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC183": {
+            "name": "Grandfather Fae",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC183.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BC188": {
+            "name": "Curious Shellfolk",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC188.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "06BC045": {
+            "name": "Sneezy Biggledust!",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BC045.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "06BC036": {
+            "name": "Paparo the Great",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BC036.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "06BC040": {
+            "name": "Bandle Tellstones",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BC040.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "06BC039": {
+            "name": "Drop the Bomb",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BC039.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06BC044": {
+            "name": "Cosmic Binding",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BC044.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "06BC026": {
+            "name": "Byrd, The Bellringer",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BC026.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "06BC030": {
+            "name": "Proximity Puffcap",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BC030.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06BC031": {
+            "name": "Maduli, The Gatekeeper",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BC031.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "06BC035": {
+            "name": "The Papertree",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BC035.png",
+            "cost": 2,
+            "type": "landmark"
+      },
+      "06BC028": {
+            "name": "Blooming Cultist",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06BC028.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "06BC038": {
+            "name": "The Sudden Surge",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06BC038.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "06BC041": {
+            "name": "Skrappy's Partsapalooza",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06BC041.png",
+            "cost": 2,
+            "type": "landmark"
+      }
+}

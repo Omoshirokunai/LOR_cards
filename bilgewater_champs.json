@@ -1,0 +1,47 @@
+{
+      "02BW032": {
+            "name": "Gangplank",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW032.png",
+            "cost": 5
+      },
+      "02BW022": {
+            "name": "Miss Fortune",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW022.png",
+            "cost": 3
+      },
+      "02BW046": {
+            "name": "Fizz",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW046.png",
+            "cost": 1
+      },
+      "02BW026": {
+            "name": "Twisted Fate",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW026.png",
+            "cost": 4
+      },
+      "02BW053": {
+            "name": "Nautilus",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW053.png",
+            "cost": 7
+      },
+      "03BW004": {
+            "name": "Tahm Kench",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW004.png",
+            "cost": 4
+      },
+      "04BW005": {
+            "name": "Pyke",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW005.png",
+            "cost": 4
+      },
+      "05BW005": {
+            "name": "Nami",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BW005.png",
+            "cost": 3
+      },
+      "06BW006": {
+            "name": "Illaoi",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW006.png",
+            "cost": 4
+      }
+}

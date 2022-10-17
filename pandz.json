@@ -1,0 +1,872 @@
+{
+      "01PZ040": {
+            "name": "Jinx",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ040.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "01PZ008": {
+            "name": "Teemo",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ008.png",
+            "cost": 1,
+            "type": "champion"
+      },
+      "01PZ056": {
+            "name": "Heimerdinger",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ056.png",
+            "cost": 5,
+            "type": "champion"
+      },
+      "01PZ013": {
+            "name": "Augmented Experimenter",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ013.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "01PZ007": {
+            "name": "Parade Electrorig",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ007.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01PZ018": {
+            "name": "Academy Prodigy",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ018.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01PZ019": {
+            "name": "Eager Apprentice",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ019.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01PZ025": {
+            "name": "Puffcap Peddler",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ025.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01PZ048": {
+            "name": "Corina Veraza",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ048.png",
+            "cost": 9,
+            "type": "follower"
+      },
+      "01PZ032": {
+            "name": "Scrap Scuttler",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ032.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01PZ015": {
+            "name": "T-Hex",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ015.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "01PZ022": {
+            "name": "Poison Puffcap",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ022.png",
+            "cost": 0,
+            "type": "trap"
+      },
+      "01PZ028": {
+            "name": "Jury-Rig",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ028.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "01PZ050": {
+            "name": "Rising Spell Force",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ050.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01PZ054": {
+            "name": "Boomcrew Rookie",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ054.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01PZ030": {
+            "name": "Shady Character",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ030.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01PZ017": {
+            "name": "Used Cask Salesman",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ017.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01PZ038": {
+            "name": "Sump Dredger",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ038.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01PZ036": {
+            "name": "Ezreal",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ036.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "01PZ035": {
+            "name": "Jae Medarda",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ035.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "01PZ010": {
+            "name": "Mushroom Cloud",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ010.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "01PZ045": {
+            "name": "Zaunite Urchin",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ045.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01PZ002": {
+            "name": "Back Alley Barkeep",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ002.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01PZ004": {
+            "name": "Trueshot Barrage",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ004.png",
+            "cost": 7,
+            "type": "spell"
+      },
+      "01PZ020": {
+            "name": "Daring Poro",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ020.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01PZ046": {
+            "name": "Counterfeit Copies",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ046.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "01PZ052": {
+            "name": "Mystic Shot",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ052.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01PZ033": {
+            "name": "Purrsuit of Perfection",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ033.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "01PZ005": {
+            "name": "Hextech Transmogulator",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ005.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "01PZ021": {
+            "name": "Midenstokke Henchmen",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ021.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01PZ031": {
+            "name": "Statikk Shock",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ031.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "01PZ059": {
+            "name": "Golden Crushbot",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ059.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01PZ001": {
+            "name": "Rummage",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ001.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01PZ057": {
+            "name": "Scrapdash Assembly",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ057.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01PZ027": {
+            "name": "Thermogenic Beam",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ027.png",
+            "cost": 0,
+            "type": "spell"
+      },
+      "01PZ055": {
+            "name": "Astute Academic",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ055.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01PZ014": {
+            "name": "Unlicensed Innovation",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ014.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "01PZ034": {
+            "name": "Sumpsnipe Scavenger",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ034.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01PZ060": {
+            "name": "Accelerated Purrsuit",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ060.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "01PZ003": {
+            "name": "Assembly Bot",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ003.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01PZ044": {
+            "name": "Chempunk Shredder",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ044.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01PZ029": {
+            "name": "Eminent Benefactor",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ029.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01PZ051": {
+            "name": "Funsmith",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ051.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01PZ023": {
+            "name": "Professor von Yipp",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ023.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01PZ024": {
+            "name": "Unstable Voltician",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ024.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01PZ049": {
+            "name": "Progress Day!",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ049.png",
+            "cost": 8,
+            "type": "spell"
+      },
+      "01PZ006": {
+            "name": "Plaza Guardian",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ006.png",
+            "cost": 10,
+            "type": "follower"
+      },
+      "01PZ053": {
+            "name": "Clump of Whumps",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ053.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01PZ012": {
+            "name": "Flame Chompers!",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ012.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01PZ039": {
+            "name": "Get Excited!",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ039.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01PZ016": {
+            "name": "Flash of Brilliance",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ016.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01PZ058": {
+            "name": "Chump Whump",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ058.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01PZ009": {
+            "name": "Amateur Aeronaut",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ009.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01PZ042": {
+            "name": "Intrepid Mariner",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ042.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01PZ026": {
+            "name": "Sumpworks Map",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ026.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01PZ043": {
+            "name": "Chempunk Pickpocket",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ043.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01PZ047": {
+            "name": "Caustic Cask",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01PZ047.png",
+            "cost": 0,
+            "type": "follower"
+      },
+      "02PZ001": {
+            "name": "Subpurrsible",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02PZ001.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "02PZ010": {
+            "name": "Veteran Investigator",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02PZ010.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "02PZ006": {
+            "name": "Gotcha!",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02PZ006.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "02PZ004": {
+            "name": "Vault Breaker",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02PZ004.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "02PZ007": {
+            "name": "Insightful Investigator",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02PZ007.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "02PZ002": {
+            "name": "Chief Mechanist Zevi",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02PZ002.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "02PZ008": {
+            "name": "Vi",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02PZ008.png",
+            "cost": 5,
+            "type": "champion"
+      },
+      "02PZ009": {
+            "name": "Trail of Evidence",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02PZ009.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "02PZ003": {
+            "name": "Suit Up!",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02PZ003.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "02PZ005": {
+            "name": "Patrol Wardens",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02PZ005.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03PZ001": {
+            "name": "The University of Piltover",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ001.png",
+            "cost": 5,
+            "type": "landmark"
+      },
+      "03PZ019": {
+            "name": "Patched Porobot",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ019.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03PZ005": {
+            "name": "Ballistic Bot",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ005.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03PZ004": {
+            "name": "Death Ray - Mk 1",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ004.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "03PZ003": {
+            "name": "Viktor",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ003.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "03PZ010": {
+            "name": "Mechanized Mimic",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ010.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "03PZ022": {
+            "name": "Give It All",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ022.png",
+            "cost": 8,
+            "type": "spell"
+      },
+      "03PZ014": {
+            "name": "Calculated Creations",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ014.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03PZ013": {
+            "name": "Iterative Improvement",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ013.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03PZ025": {
+            "name": "Stress Testing",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ025.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "03PZ012": {
+            "name": "Armed Gearhead",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ012.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "03PZ020": {
+            "name": "Hexcore Foundry",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ020.png",
+            "cost": 3,
+            "type": "landmark"
+      },
+      "03PZ016": {
+            "name": "Ignition",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ016.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "03PZ002": {
+            "name": "Nyandroid",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ002.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03PZ011": {
+            "name": "Aftershock",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ011.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03PZ017": {
+            "name": "Tri-beam Improbulator",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ017.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "03PZ018": {
+            "name": "Poro Cannon",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03PZ018.png",
+            "cost": 0,
+            "type": "spell"
+      },
+      "04PZ001": {
+            "name": "Ekko",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ001.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "04PZ005": {
+            "name": "Chirean Sumpworker",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ005.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "04PZ014": {
+            "name": "Production Surge",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ014.png",
+            "cost": 0,
+            "type": "spell"
+      },
+      "04PZ003": {
+            "name": "Timewinder",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ003.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04PZ011": {
+            "name": "Called Shot",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ011.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04PZ002": {
+            "name": "Fallen Feline",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ002.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "04PZ020": {
+            "name": "Defective Swapbot",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ020.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "04PZ013": {
+            "name": "Volunteer Elnuk",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ013.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "04PZ010": {
+            "name": "Concurrent Timelines",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ010.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04PZ016": {
+            "name": "Boom Baboon",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ016.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "04PZ007": {
+            "name": "Time Trick",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ007.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04PZ012": {
+            "name": "Practical Perfectionist",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ012.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "04PZ017": {
+            "name": "Glorious Evolution",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ017.png",
+            "cost": 10,
+            "type": "spell"
+      },
+      "04PZ015": {
+            "name": "Adaptatron 3000",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ015.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "04PZ004": {
+            "name": "Dropboarder",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04PZ004.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "05PZ015": {
+            "name": "Justice Rider",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ015.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05PZ012": {
+            "name": "Station Archivist",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ012.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05PZ026": {
+            "name": "Assembly Line",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ026.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "05PZ019": {
+            "name": "Most Wanted",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ019.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "05PZ023": {
+            "name": "Forge Worker",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ023.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05PZ031": {
+            "name": "Albus Ferros",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ031.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "05PZ027": {
+            "name": "Shock Blast",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ027.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "05PZ022": {
+            "name": "Jayce",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ022.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "05PZ017": {
+            "name": "Sump Fumes",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ017.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05PZ024": {
+            "name": "Ferros Financier",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ024.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05PZ013": {
+            "name": "Piltover Peacemaker",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ013.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05PZ020": {
+            "name": "Ambush",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ020.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05PZ010": {
+            "name": "Advanced Intel",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ010.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "05PZ014": {
+            "name": "Corina, Mastermind",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ014.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05PZ002": {
+            "name": "Insider Knowledge",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ002.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05PZ008": {
+            "name": "Flashbomb Trap",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ008.png",
+            "cost": 0,
+            "type": "trap"
+      },
+      "05PZ021": {
+            "name": "The Forge Of Tomorrow",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ021.png",
+            "cost": 3,
+            "type": "landmark"
+      },
+      "05PZ025": {
+            "name": "Forge Chief",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ025.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "05PZ006": {
+            "name": "Caitlyn",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ006.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "05PZ004": {
+            "name": "Officer Squad",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ004.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "05PZ009": {
+            "name": "Sting Officer",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ009.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05PZ016": {
+            "name": "Coup de Grace",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ016.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "05PZ030": {
+            "name": "Hextech Anomaly",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ030.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "05PZ028": {
+            "name": "Ferros Skycruiser",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ028.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05PZ038": {
+            "name": "Rocket Barrage",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ038.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "05PZ035": {
+            "name": "Stinky Whump",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ035.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "05PZ029": {
+            "name": "Hextech Handler",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05PZ029.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "06PZ032": {
+            "name": "Sputtering Songspinner",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06PZ032.png",
+            "cost": 7,
+            "type": "spell"
+      },
+      "06PZ042": {
+            "name": "Evil Imperfectionist",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06PZ042.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "06PZ025": {
+            "name": "Solitude",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06PZ025.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "06PZ043": {
+            "name": "Piltovan Tellstones",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06PZ043.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "06PZ027": {
+            "name": "Discreet Invitation",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06PZ027.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06PZ038": {
+            "name": "Scavenged Camocloaker",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06PZ038.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "06PZ039": {
+            "name": "Salvaged Scrap",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06PZ039.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06PZ007": {
+            "name": "Ambitious Cultist",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ007.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "06PZ037": {
+            "name": "The Violent Dischord",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ037.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06PZ008": {
+            "name": "The Darkin Harp",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ008.png",
+            "cost": 2,
+            "type": "equipment"
+      },
+      "06PZ019": {
+            "name": "Zaun Bouncer",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ019.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "06PZ021": {
+            "name": "Seraphine",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ021.png",
+            "cost": 2,
+            "type": "champion"
+      },
+      "06PZ018": {
+            "name": "High Note",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ018.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06PZ020": {
+            "name": "Acorn, the Hextechnician",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ020.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "06PZ030": {
+            "name": "Inspired Plans",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ030.png",
+            "cost": 2,
+            "type": "equipment"
+      },
+      "06PZ014": {
+            "name": "Fanclub President",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ014.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "06PZ036": {
+            "name": "The Zaun Diva",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ036.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "06PZ029": {
+            "name": "Crowd Pleaser",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ029.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06PZ022": {
+            "name": "Drum Solo",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06PZ022.png",
+            "cost": 5,
+            "type": "spell"
+      }
+}

@@ -1,0 +1,52 @@
+{
+      "04SH019": {
+            "name": "Rek'Sai",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SH019.png",
+            "cost": 3
+      },
+      "04SH039": {
+            "name": "Zilean",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SH039.png",
+            "cost": 2
+      },
+      "04SH073": {
+            "name": "Taliyah",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SH073.png",
+            "cost": 5
+      },
+      "04SH003": {
+            "name": "Azir",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SH003.png",
+            "cost": 3
+      },
+      "04SH130": {
+            "name": "Akshan",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SH130.png",
+            "cost": 2
+      },
+      "04SH067": {
+            "name": "Renekton",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SH067.png",
+            "cost": 4
+      },
+      "04SH020": {
+            "name": "Sivir",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SH020.png",
+            "cost": 4
+      },
+      "04SH047": {
+            "name": "Nasus",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SH047.png",
+            "cost": 6
+      },
+      "05SH014": {
+            "name": "Xerath",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SH014.png",
+            "cost": 4
+      },
+      "06SH009": {
+            "name": "Kai'Sa",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SH009.png",
+            "cost": 5
+      }
+}

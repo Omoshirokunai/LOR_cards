@@ -1,0 +1,722 @@
+{
+      "03MT005": {
+            "name": "Divergent Paths",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT005.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03MT052": {
+            "name": "Star Spring",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT052.png",
+            "cost": 2,
+            "type": "landmark"
+      },
+      "03MT064": {
+            "name": "Targon's Peak",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT064.png",
+            "cost": 6,
+            "type": "landmark"
+      },
+      "03MT079": {
+            "name": "Starry Scamp",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT079.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03MT015": {
+            "name": "Behold the Infinite",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT015.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03MT221": {
+            "name": "The Fangs",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT221.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "03MT073": {
+            "name": "Lunari Duskbringer",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT073.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "03MT217": {
+            "name": "Aphelios",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT217.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "03MT001": {
+            "name": "Sneaky Zeebles",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT001.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "03MT060": {
+            "name": "Broadbacked Protector",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT060.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "03MT033": {
+            "name": "Grandfather Rumul",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT033.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "03MT021": {
+            "name": "The Infinite Mindsplitter",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT021.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "03MT056": {
+            "name": "Diana",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT056.png",
+            "cost": 2,
+            "type": "champion"
+      },
+      "03MT067": {
+            "name": "Crystal Ibex",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT067.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "03MT092": {
+            "name": "Mountain Goat",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT092.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03MT055": {
+            "name": "Soraka",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT055.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "03MT048": {
+            "name": "Gift Giver",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT048.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "03MT063": {
+            "name": "Moondreamer",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT063.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "03MT006": {
+            "name": "Inviolus Vox",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT006.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "03MT054": {
+            "name": "Leona",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT054.png",
+            "cost": 5,
+            "type": "champion"
+      },
+      "03MT014": {
+            "name": "Herald of Dragons",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT014.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03MT058": {
+            "name": "Taric",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT058.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "03MT098": {
+            "name": "Sunblessed Vigor",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT098.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03MT040": {
+            "name": "Sparklefly",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT040.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03MT085": {
+            "name": "Hush",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT085.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03MT220": {
+            "name": "The Cloven Way",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT220.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "03MT075": {
+            "name": "Lunari Priestess",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT075.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03MT020": {
+            "name": "Resplendent Stellacorn",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT020.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "03MT071": {
+            "name": "Tyari the Traveler",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT071.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03MT002": {
+            "name": "The Skies Descend",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT002.png",
+            "cost": 15,
+            "type": "spell"
+      },
+      "03MT009": {
+            "name": "Zoe",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT009.png",
+            "cost": 1,
+            "type": "champion"
+      },
+      "03MT086": {
+            "name": "Spacey Sketcher",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT086.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "03MT087": {
+            "name": "Aurelion Sol",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT087.png",
+            "cost": 10,
+            "type": "champion"
+      },
+      "03MT019": {
+            "name": "Bastion",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT019.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "03MT214": {
+            "name": "The Flight",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT214.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "03MT013": {
+            "name": "Moonlight Affliction",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT013.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "03MT008": {
+            "name": "Wish",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT008.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03MT023": {
+            "name": "Sunburst",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT023.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "03MT096": {
+            "name": "Solari Priestess",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT096.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03MT045": {
+            "name": "Astral Protection",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT045.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "03MT080": {
+            "name": "Spring Guardian",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT080.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03MT042": {
+            "name": "Spell Thief",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT042.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "03MT057": {
+            "name": "Solari Sunforger",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT057.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "03MT091": {
+            "name": "Supercool Starchart",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT091.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03MT044": {
+            "name": "Sun Guardian",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT044.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03MT041": {
+            "name": "Mentor of the Stones",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT041.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03MT028": {
+            "name": "Solari Shieldbearer",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT028.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03MT072": {
+            "name": "Fused Firebrand",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT072.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "03MT025": {
+            "name": "Shards of the Mountain",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT025.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "03MT017": {
+            "name": "Messenger's Sigil",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT017.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "03MT051": {
+            "name": "Guiding Touch",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT051.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03MT012": {
+            "name": "Arbiter of the Peak",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT012.png",
+            "cost": 10,
+            "type": "follower"
+      },
+      "03MT094": {
+            "name": "Lunari Shadestalker",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT094.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03MT076": {
+            "name": "Mountain Scryer",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT076.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "03MT215": {
+            "name": "Gifts From Beyond",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT215.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03MT100": {
+            "name": "Eclipse Dragon",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT100.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "03MT029": {
+            "name": "Star Shepherd",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT029.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "03MT219": {
+            "name": "The Veiled Temple",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT219.png",
+            "cost": 4,
+            "type": "landmark"
+      },
+      "03MT062": {
+            "name": "Giddy Sparkleologist",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT062.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03MT082": {
+            "name": "Morning Light",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT082.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03MT047": {
+            "name": "Cygnus the Moonstalker",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT047.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "03MT038": {
+            "name": "Whiteflame Protector",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT038.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "03MT081": {
+            "name": "Mountain Sojourners",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT081.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "03MT007": {
+            "name": "Fledgling Stellacorn",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT007.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03MT216": {
+            "name": "The Sky Shadows",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT216.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03MT026": {
+            "name": "Rahvun, Daylight's Spear",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT026.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "03MT093": {
+            "name": "Paddle Star",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT093.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03MT110": {
+            "name": "Out Of The Way",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT110.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "03MT003": {
+            "name": "Dragon's Clutch",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT003.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03MT030": {
+            "name": "Stargazer",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT030.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "03MT088": {
+            "name": "Solari Soldier",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT088.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "03MT089": {
+            "name": "Crescent Guardian",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT089.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03MT027": {
+            "name": "Zenith Blade",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT027.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03MT218": {
+            "name": "Starbone",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT218.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03MT084": {
+            "name": "Starshaping",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT084.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "03MT016": {
+            "name": "Startled Stomper",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT016.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03MT074": {
+            "name": "Sleepy Trouble Bubble",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT074.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03MT035": {
+            "name": "Pale Cascade",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT035.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03MT036": {
+            "name": "Blessing of Targon",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT036.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "03MT039": {
+            "name": "Porofly",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT039.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "04MT014": {
+            "name": "Eye of the Ra-Horak",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT014.png",
+            "cost": 5,
+            "type": "landmark"
+      },
+      "04MT008": {
+            "name": "Malphite",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT008.png",
+            "cost": 7,
+            "type": "champion"
+      },
+      "04MT010": {
+            "name": "Startipped Peak",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT010.png",
+            "cost": 2,
+            "type": "landmark"
+      },
+      "04MT005": {
+            "name": "Chip",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT005.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "04MT009": {
+            "name": "Spiral Stairs",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT009.png",
+            "cost": 3,
+            "type": "landmark"
+      },
+      "04MT001": {
+            "name": "Rockfall Path",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT001.png",
+            "cost": 2,
+            "type": "landmark"
+      },
+      "04MT018": {
+            "name": "Frightened Ibex",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT018.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "04MT004": {
+            "name": "Blue Sentinel",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT004.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "04MT013": {
+            "name": "Solari Sunhawk",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT013.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "04MT003": {
+            "name": "Earth Elemental",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT003.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "04MT002": {
+            "name": "Stonebreaker",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT002.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "04MT006": {
+            "name": "Starlit Epiphany",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT006.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "04MT012": {
+            "name": "Destiny's Call",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT012.png",
+            "cost": 8,
+            "type": "spell"
+      },
+      "04MT007": {
+            "name": "Ground Slam ",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT007.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "04MT015": {
+            "name": "Heavens Aligned",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT015.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "05MT004": {
+            "name": "Camphor, the Doubt",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT004.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05MT006": {
+            "name": "Wounded Whiteflame",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT006.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05MT008": {
+            "name": "Shield Vault",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT008.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "05MT014": {
+            "name": "Celestial Wonder",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT014.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "05MT003": {
+            "name": "Pantheon",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT003.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "05MT013": {
+            "name": "Iula",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT013.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05MT009": {
+            "name": "Battle Bonds",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT009.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "05MT010": {
+            "name": "Blinded Mystic",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT010.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05MT002": {
+            "name": "We Stand Together",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT002.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05MT012": {
+            "name": "Freed Colossus",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT012.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "05MT011": {
+            "name": "Against the Odds",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT011.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05MT005": {
+            "name": "Saga Seeker",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT005.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "06MT044": {
+            "name": "Solari Stellacorn",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06MT044.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "06MT036": {
+            "name": "Consult the Heavens",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06MT036.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "06MT039": {
+            "name": "Dragon Roost",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06MT039.png",
+            "cost": 3,
+            "type": "landmark"
+      },
+      "06MT045": {
+            "name": "Celestial Trifecta",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06MT045.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "06MT043": {
+            "name": "Targonian Tellstones",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06MT043.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "06MT029": {
+            "name": "Esmus, Breath of the World",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06MT029.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "06MT038": {
+            "name": "The Winding Light",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06MT038.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "06MT047": {
+            "name": "Mystic Vortex",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06MT047.png",
+            "cost": 2,
+            "type": "landmark"
+      },
+      "06MT041": {
+            "name": "Starhound Pack",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06MT041.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "06MT049": {
+            "name": "Mikhael's Blessing",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06MT049.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "06MT032": {
+            "name": "Lunari Cultist",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06MT032.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "06MT040": {
+            "name": "The Expanse's Protection",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06MT040.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "06MT042": {
+            "name": "Twilit Protector",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06MT042.png",
+            "cost": 2,
+            "type": "follower"
+      }
+}

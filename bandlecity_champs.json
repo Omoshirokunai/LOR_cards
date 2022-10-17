@@ -1,0 +1,42 @@
+{
+      "05BC058": {
+            "name": "Kennen",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC058.png",
+            "cost": 1
+      },
+      "05BC133": {
+            "name": "Tristana",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC133.png",
+            "cost": 3
+      },
+      "05BC029": {
+            "name": "Yuumi",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC029.png",
+            "cost": 3
+      },
+      "05BC161": {
+            "name": "Gnar",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC161.png",
+            "cost": 4
+      },
+      "05BC093": {
+            "name": "Veigar",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC093.png",
+            "cost": 4
+      },
+      "05BC088": {
+            "name": "Rumble",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC088.png",
+            "cost": 4
+      },
+      "05BC163": {
+            "name": "Ziggs",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC163.png",
+            "cost": 3
+      },
+      "05BC041": {
+            "name": "Poppy",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BC041.png",
+            "cost": 4
+      }
+}

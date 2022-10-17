@@ -1,0 +1,42 @@
+{
+      "01IO015": {
+            "name": "Yasuo",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01IO015.png",
+            "cost": 4
+      },
+      "01IO041": {
+            "name": "Karma",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01IO041.png",
+            "cost": 5
+      },
+      "01IO009": {
+            "name": "Zed",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01IO009.png",
+            "cost": 3
+      },
+      "01IO032": {
+            "name": "Shen",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01IO032.png",
+            "cost": 4
+      },
+      "02IO006": {
+            "name": "Lee Sin",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02IO006.png",
+            "cost": 5
+      },
+      "03IO002": {
+            "name": "Lulu",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03IO002.png",
+            "cost": 3
+      },
+      "04IO005": {
+            "name": "Irelia",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04IO005.png",
+            "cost": 3
+      },
+      "05IO004": {
+            "name": "Ahri",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05IO004.png",
+            "cost": 2
+      }
+}

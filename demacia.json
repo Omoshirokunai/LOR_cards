@@ -1,0 +1,752 @@
+{
+      "01DE031": {
+            "name": "Dawnspeakers",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE031.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01DE022": {
+            "name": "Lucian",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE022.png",
+            "cost": 2,
+            "type": "champion"
+      },
+      "01DE019": {
+            "name": "Mobilize",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE019.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01DE042": {
+            "name": "Lux",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE042.png",
+            "cost": 5,
+            "type": "champion"
+      },
+      "01DE010": {
+            "name": "Swiftwing Lancer",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE010.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01DE020": {
+            "name": "Vanguard Defender",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE020.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01DE034": {
+            "name": "Battlesmith",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE034.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01DE002": {
+            "name": "Tianna Crownguard",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE002.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "01DE012": {
+            "name": "Garen",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE012.png",
+            "cost": 5,
+            "type": "champion"
+      },
+      "01DE017": {
+            "name": "Stand Alone",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE017.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "01DE045": {
+            "name": "Fiora",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE045.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "01DE052": {
+            "name": "Brightsteel Formation",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE052.png",
+            "cost": 9,
+            "type": "follower"
+      },
+      "01DE021": {
+            "name": "Relentless Pursuit",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE021.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "01DE025": {
+            "name": "Detain",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE025.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "01DE007": {
+            "name": "Judgment",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE007.png",
+            "cost": 8,
+            "type": "spell"
+      },
+      "01DE055": {
+            "name": "Laurent Duelist",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE055.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01DE048": {
+            "name": "Mageseeker Inciter",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE048.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01DE001": {
+            "name": "Vanguard Bannerman",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE001.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01DE043": {
+            "name": "War Chefs",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE043.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01DE049": {
+            "name": "Plucky Poro",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE049.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01DE053": {
+            "name": "Laurent Chevalier",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE053.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01DE033": {
+            "name": "Remembrance",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE033.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "01DE044": {
+            "name": "Redoubled Valor",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE044.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "01DE024": {
+            "name": "Mageseeker Conservator",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE024.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01DE004": {
+            "name": "Silverwing Vanguard",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE004.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01DE011": {
+            "name": "Laurent Protege",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE011.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01DE047": {
+            "name": "Succession",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE047.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01DE046": {
+            "name": "Vanguard Lookout",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE046.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01DE050": {
+            "name": "Purify",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE050.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01DE016": {
+            "name": "Dauntless Vanguard",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE016.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01DE040": {
+            "name": "Mageseeker Persuader",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE040.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01DE036": {
+            "name": "Vanguard Squire",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE036.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01DE037": {
+            "name": "Riposte",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE037.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "01DE014": {
+            "name": "Reinforcements",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE014.png",
+            "cost": 8,
+            "type": "spell"
+      },
+      "01DE015": {
+            "name": "Radiant Guardian",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE015.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01DE003": {
+            "name": "Laurent Bladekeeper",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE003.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01DE026": {
+            "name": "Single Combat",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE026.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01DE032": {
+            "name": "Prismatic Barrier",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE032.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01DE027": {
+            "name": "En Garde",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE027.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01DE006": {
+            "name": "Vanguard Sergeant",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE006.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01DE038": {
+            "name": "Senna, Sentinel of Light",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE038.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01DE041": {
+            "name": "Back to Back",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE041.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "01DE035": {
+            "name": "For Demacia!",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE035.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "01DE018": {
+            "name": "Radiant Strike",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE018.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "01DE009": {
+            "name": "Brightsteel Protector",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE009.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01DE039": {
+            "name": "Cithria of Cloudfield",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE039.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01DE056": {
+            "name": "Vanguard Firstblade",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE056.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01DE029": {
+            "name": "Fleetfeather Tracker",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE029.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01DE028": {
+            "name": "Vanguard Cavalry",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE028.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01DE013": {
+            "name": "Chain Vest",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE013.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "01DE023": {
+            "name": "Mageseeker Investigator",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE023.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01DE051": {
+            "name": "Cithria the Bold",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE051.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "01DE054": {
+            "name": "Vanguard Redeemer",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE054.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01DE030": {
+            "name": "Silverwing Diver",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE030.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "02DE003": {
+            "name": "Loyal Badgerbear",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02DE003.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "02DE008": {
+            "name": "Greathorn Companion",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02DE008.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "02DE004": {
+            "name": "Greenfang Warden",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02DE004.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "02DE006": {
+            "name": "Quinn",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02DE006.png",
+            "cost": 5,
+            "type": "champion"
+      },
+      "02DE009": {
+            "name": "Grizzled Ranger",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02DE009.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "02DE005": {
+            "name": "Unyielding Spirit",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02DE005.png",
+            "cost": 8,
+            "type": "spell"
+      },
+      "02DE002": {
+            "name": "Blinding Assault",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02DE002.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "02DE010": {
+            "name": "Genevieve Elmheart",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02DE010.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "02DE007": {
+            "name": "Ranger's Resolve",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02DE007.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "02DE001": {
+            "name": "Concerted Strike",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02DE001.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "03DE010": {
+            "name": "The Grand Plaza",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE010.png",
+            "cost": 3,
+            "type": "landmark"
+      },
+      "03DE004": {
+            "name": "Captain Arrika",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE004.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "03DE008": {
+            "name": "Dragonguard Lieutenant",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE008.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03DE001": {
+            "name": "Confront",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE001.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03DE015": {
+            "name": "Stony Suppressor",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE015.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03DE006": {
+            "name": "Screeching Dragon",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE006.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "03DE025": {
+            "name": "Molten Breath",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE025.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "03DE002": {
+            "name": "Strafing Strike",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE002.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03DE011": {
+            "name": "Shyvana",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE011.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "03DE003": {
+            "name": "Dragonguard Lookout",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE003.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "03DE013": {
+            "name": "Stalking Broodmother",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE013.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "03DE005": {
+            "name": "Egghead Researcher",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE005.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03DE007": {
+            "name": "Kadregrin the Infernal",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE007.png",
+            "cost": 9,
+            "type": "follower"
+      },
+      "03DE012": {
+            "name": "For The Fallen",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE012.png",
+            "cost": 8,
+            "type": "spell"
+      },
+      "03DE014": {
+            "name": "Sharpsight",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE014.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04DE004": {
+            "name": "Ardent Tracker",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE004.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "04DE014": {
+            "name": "Dragon Chow",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE014.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "04DE001": {
+            "name": "Honored Lord",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE001.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "04DE012": {
+            "name": "Field Promotion",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE012.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04DE003": {
+            "name": "Cataclysm",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE003.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "04DE002": {
+            "name": "Golden Aegis",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE002.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "04DE006": {
+            "name": "Battlefield Prowess",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE006.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "04DE008": {
+            "name": "Jarvan IV",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE008.png",
+            "cost": 6,
+            "type": "champion"
+      },
+      "04DE005": {
+            "name": "Cithria, Lady of Clouds",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE005.png",
+            "cost": 10,
+            "type": "follower"
+      },
+      "04DE020": {
+            "name": "Ruined Dragonguard",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE020.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "04DE010": {
+            "name": "King Jarvan III",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE010.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "04DE016": {
+            "name": "Kadregrin the Ruined",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE016.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "04DE013": {
+            "name": "Towering Stonehorn",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE013.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "04DE015": {
+            "name": "Swiftwing Flight",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE015.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "04DE007": {
+            "name": "Penitent Squire",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE007.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "04DE009": {
+            "name": "Gallant Rider",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE009.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05DE003": {
+            "name": "Gorlith the Unscalable",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE003.png",
+            "cost": 9,
+            "type": "follower"
+      },
+      "05DE009": {
+            "name": "Galio",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE009.png",
+            "cost": 7,
+            "type": "champion"
+      },
+      "05DE020": {
+            "name": "Shield of Durand",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE020.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05DE021": {
+            "name": "Might of the Vanguard",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE021.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05DE017": {
+            "name": "Winds of War",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE017.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05DE010": {
+            "name": "Durand Sculptor",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE010.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05DE013": {
+            "name": "Petricite Stag",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE013.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05DE015": {
+            "name": "Mountain Drake",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE015.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "05DE019": {
+            "name": "Durand Architect",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE019.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05DE014": {
+            "name": "Durand Protege",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE014.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05DE012": {
+            "name": "Petricite Broadwing",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE012.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05DE018": {
+            "name": "Petricite Hound",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE018.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "06DE045": {
+            "name": "Inspiring Light",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06DE045.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06DE038": {
+            "name": "Lord Eldred, Mageseeker Leader",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06DE038.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "06DE037": {
+            "name": "Royal Decree",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06DE037.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "06DE035": {
+            "name": "Petricite Pillar",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06DE035.png",
+            "cost": 2,
+            "type": "landmark"
+      },
+      "06DE042": {
+            "name": "Demacian Tellstones",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06DE042.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "06DE036": {
+            "name": "Protective Broodfather",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06DE036.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "06DE030": {
+            "name": "Allure",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06DE030.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06DE026": {
+            "name": "Icathian Myths",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE026.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06DE011": {
+            "name": "The Darkin Aegis",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE011.png",
+            "cost": 2,
+            "type": "equipment"
+      },
+      "06DE021": {
+            "name": "Vayne",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE021.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "06DE018": {
+            "name": "Condemn",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE018.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "06DE019": {
+            "name": "Widowed Huntress",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE019.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "06DE025": {
+            "name": "Kind-hearted Recruit",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE025.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "06DE027": {
+            "name": "Zealous Ranger-Knight",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE027.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "06DE028": {
+            "name": "Bloodcursed Harpy",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE028.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "06DE029": {
+            "name": "Steadfast Elkin",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE029.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "06DE034": {
+            "name": "Faithful Wolfdog",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE034.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "06DE017": {
+            "name": "Fish Fight",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE017.png",
+            "cost": 2,
+            "type": "spell"
+      }
+}

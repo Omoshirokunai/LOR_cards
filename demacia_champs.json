@@ -1,0 +1,47 @@
+{
+      "01DE022": {
+            "name": "Lucian",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE022.png",
+            "cost": 2
+      },
+      "01DE042": {
+            "name": "Lux",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE042.png",
+            "cost": 5
+      },
+      "01DE012": {
+            "name": "Garen",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE012.png",
+            "cost": 5
+      },
+      "01DE045": {
+            "name": "Fiora",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01DE045.png",
+            "cost": 4
+      },
+      "02DE006": {
+            "name": "Quinn",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02DE006.png",
+            "cost": 5
+      },
+      "03DE011": {
+            "name": "Shyvana",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03DE011.png",
+            "cost": 4
+      },
+      "04DE008": {
+            "name": "Jarvan IV",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04DE008.png",
+            "cost": 6
+      },
+      "05DE009": {
+            "name": "Galio",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05DE009.png",
+            "cost": 7
+      },
+      "06DE021": {
+            "name": "Vayne",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06DE021.png",
+            "cost": 3
+      }
+}

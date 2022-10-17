@@ -1,0 +1,740 @@
+{
+      "02BW040": {
+            "name": "Shellshocker ",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW040.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "02BW057": {
+            "name": "Slippery Waverider",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW057.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "02BW041": {
+            "name": "The Beast Below",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW041.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "02BW013": {
+            "name": "Prowling Cutthroat",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW013.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "02BW034": {
+            "name": "Monkey Idol",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW034.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "02BW056": {
+            "name": "Devourer of the Depths",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW056.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "02BW060": {
+            "name": "Crackshot Corsair",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW060.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "02BW011": {
+            "name": "Yordle Grifter",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW011.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "02BW030": {
+            "name": "Shipwreck Hoarder",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW030.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "02BW019": {
+            "name": "Bubble Bear",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW019.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "02BW007": {
+            "name": "Brash Gambler",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW007.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "02BW014": {
+            "name": "Coral Creatures",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW014.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "02BW055": {
+            "name": "Jagged Taskmaster",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW055.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "02BW017": {
+            "name": "Citrus Courier",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW017.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "02BW038": {
+            "name": "Zap Sprayfin",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW038.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "02BW021": {
+            "name": "Razorscale Hunter",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW021.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "02BW035": {
+            "name": "Sheriff Lariette Rose",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW035.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "02BW058": {
+            "name": "Jagged Butcher",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW058.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "02BW028": {
+            "name": "Riptide Rex",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW028.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "02BW037": {
+            "name": "Abyssal Eye",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW037.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "02BW008": {
+            "name": "Petty Officer",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW008.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "02BW047": {
+            "name": "Dreg Dredgers",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW047.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "02BW004": {
+            "name": "Dreadway Deckhand",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW004.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "02BW002": {
+            "name": "The Dreadway",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW002.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "02BW016": {
+            "name": "Slotbot",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW016.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "02BW027": {
+            "name": "Hunting Fleet",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW027.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "02BW050": {
+            "name": "Smooth Soloist",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW050.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "02BW015": {
+            "name": "The Syren",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW015.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "02BW010": {
+            "name": "Plunder Poro",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW010.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "02BW009": {
+            "name": "Pool Shark",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW009.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "02BW005": {
+            "name": "Hired Gun",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW005.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "02BW039": {
+            "name": "Jaull Hunters",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW039.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "02BW006": {
+            "name": "Mystifying Magician",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW006.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "02BW036": {
+            "name": "Golden Narwhal",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW036.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "02BW033": {
+            "name": "Black Market Merchant",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW033.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "02BW032": {
+            "name": "Gangplank",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW032.png",
+            "cost": 5,
+            "type": "champion"
+      },
+      "02BW022": {
+            "name": "Miss Fortune",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW022.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "02BW046": {
+            "name": "Fizz",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW046.png",
+            "cost": 1,
+            "type": "champion"
+      },
+      "02BW026": {
+            "name": "Twisted Fate",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW026.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "02BW053": {
+            "name": "Nautilus",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW053.png",
+            "cost": 7,
+            "type": "champion"
+      },
+      "02BW061": {
+            "name": "Pocket Aces",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW061.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "02BW024": {
+            "name": "Double Trouble",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW024.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "02BW003": {
+            "name": "Strong-arm",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW003.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "02BW025": {
+            "name": "Chum the Waters",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW025.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "02BW012": {
+            "name": "More Powder!",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW012.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "02BW018": {
+            "name": "Parrrley",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW018.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "02BW048": {
+            "name": "Jailbreak",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW048.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "02BW043": {
+            "name": "Pick a Card",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW043.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "02BW051": {
+            "name": "Playful Trickster",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW051.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "02BW054": {
+            "name": "Riptide",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW054.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "02BW042": {
+            "name": "Mind Meld",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW042.png",
+            "cost": 7,
+            "type": "spell"
+      },
+      "02BW059": {
+            "name": "Scrapshot",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW059.png",
+            "cost": 7,
+            "type": "spell"
+      },
+      "02BW023": {
+            "name": "Lure of the Depths",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW023.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "02BW031": {
+            "name": "Double Up",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW031.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "02BW029": {
+            "name": "Salvage",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW029.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "02BW049": {
+            "name": "Pilfered Goods",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW049.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "02BW001": {
+            "name": "Ye Been Warned",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW001.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "02BW063": {
+            "name": "Sleight of Hand",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW063.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "02BW045": {
+            "name": "Make it Rain",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW045.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "02BW020": {
+            "name": "Warning Shot",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW020.png",
+            "cost": 0,
+            "type": "spell"
+      },
+      "02BW044": {
+            "name": "Jettison",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW044.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "02BW062": {
+            "name": "Island Navigator",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02BW062.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "03BW006": {
+            "name": "Jack, the Winner",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW006.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "03BW010": {
+            "name": "Bayou Brunch",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW010.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03BW005": {
+            "name": "Sunk Cost",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW005.png",
+            "cost": 8,
+            "type": "spell"
+      },
+      "03BW004": {
+            "name": "Tahm Kench",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW004.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "03BW002": {
+            "name": "Lounging Lizard",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW002.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03BW014": {
+            "name": "Monkey Business",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW014.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03BW007": {
+            "name": "Boxtopus",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW007.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03BW016": {
+            "name": "Boomship",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW016.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03BW001": {
+            "name": "The Slaughter Docks",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW001.png",
+            "cost": 3,
+            "type": "landmark"
+      },
+      "03BW015": {
+            "name": "Crusty Codger",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW015.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "03BW003": {
+            "name": "Wise Fry",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW003.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "03BW017": {
+            "name": "Wiggly Burblefish",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW017.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "03BW008": {
+            "name": "Fortune Croaker",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW008.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03BW020": {
+            "name": "Powder Pandemonium",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW020.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "03BW009": {
+            "name": "Shakedown",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03BW009.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "04BW002": {
+            "name": "Bone Skewer",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW002.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04BW007": {
+            "name": "Jaull-fish",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW007.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "04BW001": {
+            "name": "Redfin Hammersnout",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW001.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "04BW005": {
+            "name": "Pyke",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW005.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "04BW010": {
+            "name": "Monster Harpoon",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW010.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "04BW014": {
+            "name": "Line 'Em Up",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW014.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04BW011": {
+            "name": "Loaded Dice",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW011.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "04BW015": {
+            "name": "Sharkling",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW015.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "04BW003": {
+            "name": "Snapjaw Swarm",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW003.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "04BW009": {
+            "name": "Ripper's Bay",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW009.png",
+            "cost": 1,
+            "type": "landmark"
+      },
+      "04BW008": {
+            "name": "Lost Riches",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW008.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "04BW013": {
+            "name": "Reaver's Row",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW013.png",
+            "cost": 5,
+            "type": "landmark"
+      },
+      "04BW004": {
+            "name": "Bloodbait",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW004.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "04BW016": {
+            "name": "Ruined Rex",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW016.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "04BW006": {
+            "name": "The List",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04BW006.png",
+            "cost": 0,
+            "type": "spell"
+      },
+      "05BW005": {
+            "name": "Nami",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BW005.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "05BW006": {
+            "name": "Ebb",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BW006.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "05BW002": {
+            "name": "Journeying Sandhopper",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BW002.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05BW008": {
+            "name": "Abyssal Guard",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BW008.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BW011": {
+            "name": "Fleet Admiral Shelly",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BW011.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "05BW003": {
+            "name": "Tidal Wave",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BW003.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05BW004": {
+            "name": "Avatar of the Tides",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BW004.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05BW001": {
+            "name": "Marai Warden",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BW001.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05BW010": {
+            "name": "Marai Greatmother",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BW010.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05BW013": {
+            "name": "Marai Songstress",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05BW013.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "06BW006": {
+            "name": "Illaoi",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW006.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "06BW036": {
+            "name": "Wharf Rat",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW036.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "06BW038": {
+            "name": "Megatusk",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW038.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "06BW030": {
+            "name": "Eye of Nagakabouros",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW030.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "06BW011": {
+            "name": "Nagakabouros",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW011.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "06BW021": {
+            "name": "Riptide Sermon",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW021.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "06BW045": {
+            "name": "Blood in the Water",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW045.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "06BW028": {
+            "name": "Tentacle Smash",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW028.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "06BW035": {
+            "name": "The Sea's Voice",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW035.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "06BW015": {
+            "name": "Answered Prayer",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW015.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06BW007": {
+            "name": "Watchful Idol",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW007.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "06BW037": {
+            "name": "Ransom Riches",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW037.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "06BW041": {
+            "name": "Swindle",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW041.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06BW016": {
+            "name": "Buhru Lookout",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW016.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "06BW009": {
+            "name": "Buhru Leader",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW009.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "06BW043": {
+            "name": "Bilgewater Tellstones",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW043.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "06BW018": {
+            "name": "Steem",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06BW018.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "06BW026": {
+            "name": "Buhru Cultist",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06BW026.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "06BW039": {
+            "name": "The Unending Wave",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06BW039.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "06BW014": {
+            "name": "The Darkin Harpoon",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06BW014.png",
+            "cost": 2,
+            "type": "equipment"
+      },
+      "06BW004": {
+            "name": "Test of Spirit",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06BW004.png",
+            "cost": 1,
+            "type": "spell"
+      }
+}

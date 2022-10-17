@@ -1,0 +1,42 @@
+{
+      "01FR024": {
+            "name": "Anivia",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR024.png",
+            "cost": 6
+      },
+      "01FR039": {
+            "name": "Tryndamere",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR039.png",
+            "cost": 8
+      },
+      "01FR009": {
+            "name": "Braum",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR009.png",
+            "cost": 4
+      },
+      "01FR038": {
+            "name": "Ashe",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR038.png",
+            "cost": 4
+      },
+      "02FR002": {
+            "name": "Sejuani",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02FR002.png",
+            "cost": 6
+      },
+      "03FR006": {
+            "name": "Trundle",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR006.png",
+            "cost": 5
+      },
+      "04FR005": {
+            "name": "Lissandra",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR005.png",
+            "cost": 3
+      },
+      "05FR013": {
+            "name": "Udyr",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR013.png",
+            "cost": 5
+      }
+}

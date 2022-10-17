@@ -1,0 +1,52 @@
+{
+      "01SI053": {
+            "name": "Elise",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI053.png",
+            "cost": 2
+      },
+      "01SI042": {
+            "name": "Hecarim",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI042.png",
+            "cost": 6
+      },
+      "01SI030": {
+            "name": "Kalista",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI030.png",
+            "cost": 3
+      },
+      "01SI052": {
+            "name": "Thresh",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI052.png",
+            "cost": 5
+      },
+      "02SI008": {
+            "name": "Maokai",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02SI008.png",
+            "cost": 4
+      },
+      "03SI005": {
+            "name": "Nocturne",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI005.png",
+            "cost": 4
+      },
+      "04SI005": {
+            "name": "Kindred",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI005.png",
+            "cost": 4
+      },
+      "04SI055": {
+            "name": "Viego",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI055.png",
+            "cost": 6
+      },
+      "05SI009": {
+            "name": "Senna",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI009.png",
+            "cost": 5
+      },
+      "06SI012": {
+            "name": "Gwen",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI012.png",
+            "cost": 4
+      }
+}

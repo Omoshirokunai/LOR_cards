@@ -1,0 +1,710 @@
+{
+      "01FR024": {
+            "name": "Anivia",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR024.png",
+            "cost": 6,
+            "type": "champion"
+      },
+      "01FR039": {
+            "name": "Tryndamere",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR039.png",
+            "cost": 8,
+            "type": "champion"
+      },
+      "01FR006": {
+            "name": "Iceborn Legacy",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR006.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "01FR022": {
+            "name": "Omen Hawk",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR022.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01FR042": {
+            "name": "Harsh Winds",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR042.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "01FR009": {
+            "name": "Braum",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR009.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "01FR018": {
+            "name": "Rimefang Wolf",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR018.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01FR036": {
+            "name": "Avarosan Marksman",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR036.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01FR045": {
+            "name": "Scarthane Steffen",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR045.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01FR008": {
+            "name": "Lonely Poro",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR008.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01FR055": {
+            "name": "Shatter",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR055.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01FR038": {
+            "name": "Ashe",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR038.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "01FR029": {
+            "name": "Entreat",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR029.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01FR035": {
+            "name": "Unscarred Reaver",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR035.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01FR028": {
+            "name": "Enraged Yeti",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR028.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01FR020": {
+            "name": "Avalanche",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR020.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "01FR014": {
+            "name": "Yeti Yearling",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR014.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01FR049": {
+            "name": "Stalking Wolf",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR049.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01FR037": {
+            "name": "Avarosan Outriders",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR037.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01FR026": {
+            "name": "Alpha Wildclaw",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR026.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "01FR030": {
+            "name": "Brittle Steel",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR030.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "01FR013": {
+            "name": "Scarmother Vrynna",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR013.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "01FR019": {
+            "name": "Winter's Breath",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR019.png",
+            "cost": 7,
+            "type": "spell"
+      },
+      "01FR041": {
+            "name": "Avarosan Hearthguard ",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR041.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01FR025": {
+            "name": "Poro Herder",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR025.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01FR054": {
+            "name": "Scarmaiden Reaver",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR054.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01FR021": {
+            "name": "Tarkaz the Tribeless",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR021.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01FR043": {
+            "name": "Heart of the Fluft",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR043.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "01FR033": {
+            "name": "Wyrding Stones",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR033.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01FR011": {
+            "name": "Icevale Archer",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR011.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01FR050": {
+            "name": "Kindly Tavernkeeper",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR050.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01FR052": {
+            "name": "She Who Wanders",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR052.png",
+            "cost": 10,
+            "type": "follower"
+      },
+      "01FR016": {
+            "name": "Poro Snax",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR016.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01FR005": {
+            "name": "Battle Fury",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR005.png",
+            "cost": 8,
+            "type": "spell"
+      },
+      "01FR023": {
+            "name": "Warmother's Call",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR023.png",
+            "cost": 12,
+            "type": "spell"
+      },
+      "01FR047": {
+            "name": "Feral Mystic",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR047.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01FR056": {
+            "name": "Icy Yeti",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR056.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "01FR027": {
+            "name": "Bull Elnuk",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR027.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01FR057": {
+            "name": "Pack Mentality",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR057.png",
+            "cost": 7,
+            "type": "spell"
+      },
+      "01FR004": {
+            "name": "Elixir of Iron",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR004.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "01FR048": {
+            "name": "Avarosan Trapper",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR048.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01FR017": {
+            "name": "Troop of Elnuks",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR017.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01FR046": {
+            "name": "Take Heart",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR046.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01FR012": {
+            "name": "Catalyst of Aeons",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR012.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "01FR040": {
+            "name": "Rimetusk Shaman",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR040.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01FR031": {
+            "name": "Ancient Yeti",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR031.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "01FR053": {
+            "name": "Mighty Poro",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR053.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01FR010": {
+            "name": "Bloodsworn Pledge",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR010.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "01FR001": {
+            "name": "Flash Freeze",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR001.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01FR032": {
+            "name": "Starlit Seer",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR032.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01FR051": {
+            "name": "Tall Tales",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR051.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01FR034": {
+            "name": "They Who Endure",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR034.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "01FR007": {
+            "name": "Babbling Bjerg",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR007.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01FR003": {
+            "name": "Avarosan Sentry",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01FR003.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "02FR009": {
+            "name": "Wolfrider",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02FR009.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "02FR004": {
+            "name": "Caught in the Cold",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02FR004.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "02FR002": {
+            "name": "Sejuani",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02FR002.png",
+            "cost": 6,
+            "type": "champion"
+      },
+      "02FR001": {
+            "name": "Ember Maiden",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02FR001.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "02FR005": {
+            "name": "Ursine Spiritwalker",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02FR005.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "02FR010": {
+            "name": "Shared Spoils",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02FR010.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "02FR008": {
+            "name": "The Tuskraider",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02FR008.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "02FR007": {
+            "name": "Fury of the North",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02FR007.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "02FR006": {
+            "name": "Ruthless Raider",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02FR006.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "02FR003": {
+            "name": "Aurora Porealis",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02FR003.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "03FR009": {
+            "name": "The Howling Abyss",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR009.png",
+            "cost": 6,
+            "type": "landmark"
+      },
+      "03FR003": {
+            "name": "It That Stares",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR003.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "03FR020": {
+            "name": "The Scargrounds",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR020.png",
+            "cost": 3,
+            "type": "landmark"
+      },
+      "03FR007": {
+            "name": "Troll Scavenger",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR007.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03FR004": {
+            "name": "Revitalizing Roar",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR004.png",
+            "cost": 7,
+            "type": "spell"
+      },
+      "03FR017": {
+            "name": "Augur of the Old Ones",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR017.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "03FR006": {
+            "name": "Trundle",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR006.png",
+            "cost": 5,
+            "type": "champion"
+      },
+      "03FR008": {
+            "name": "Icequake ",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR008.png",
+            "cost": 8,
+            "type": "spell"
+      },
+      "03FR002": {
+            "name": "Troll Chant",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR002.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03FR011": {
+            "name": "Uzgar the Ancient",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR011.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "03FR005": {
+            "name": "Troll Ravager",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR005.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "03FR018": {
+            "name": "Call the Wild",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR018.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03FR010": {
+            "name": "Faces of the Old Ones",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR010.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03FR019": {
+            "name": "Voices of the Old Ones",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR019.png",
+            "cost": 8,
+            "type": "spell"
+      },
+      "03FR025": {
+            "name": "Troll Gifts",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR025.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03FR022": {
+            "name": "Feel The Rush",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03FR022.png",
+            "cost": 12,
+            "type": "spell"
+      },
+      "04FR006": {
+            "name": "Draklorn Inquisitor",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR006.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "04FR012": {
+            "name": "Buried in Ice",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR012.png",
+            "cost": 9,
+            "type": "spell"
+      },
+      "04FR016": {
+            "name": "Spoils of War",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR016.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "04FR013": {
+            "name": "Cold Resistance",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR013.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "04FR005": {
+            "name": "Lissandra",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR005.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "04FR011": {
+            "name": "Succumb to the Cold",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR011.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "04FR001": {
+            "name": "Frozen Thrall",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR001.png",
+            "cost": 1,
+            "type": "landmark"
+      },
+      "04FR007": {
+            "name": "Entomb",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR007.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "04FR017": {
+            "name": "Ancestral Boon",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR017.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04FR014": {
+            "name": "Blighted Ravine",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR014.png",
+            "cost": 4,
+            "type": "landmark"
+      },
+      "04FR009": {
+            "name": "Ice Shard",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR009.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "04FR015": {
+            "name": "Fabled Poro",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR015.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "04FR019": {
+            "name": "Rimefang Denmother",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR019.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "04FR018": {
+            "name": "Abominable Guardian",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR018.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "04FR010": {
+            "name": "Three Sisters",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04FR010.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "05FR001": {
+            "name": "Murkwolf Shaman",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR001.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05FR002": {
+            "name": "Mammoth Shaman",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR002.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05FR013": {
+            "name": "Udyr",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR013.png",
+            "cost": 5,
+            "type": "champion"
+      },
+      "05FR016": {
+            "name": "Shaman's Call",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR016.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "05FR012": {
+            "name": "Hyara Allseer",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR012.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05FR014": {
+            "name": "Wrath of the Freljord",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR014.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "05FR010": {
+            "name": "Stance Swap",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR010.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05FR017": {
+            "name": "Inner Beast",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR017.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "05FR006": {
+            "name": "Tusk Speaker",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR006.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05FR015": {
+            "name": "Spirits Unleashed",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR015.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "05FR005": {
+            "name": "Bone Scryer",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR005.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "05FR004": {
+            "name": "Vulpine Wanderer",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05FR004.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "06FR029": {
+            "name": "Frozen in Fear",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06FR029.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "06FR033": {
+            "name": "Hunting Boar",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06FR033.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "06FR038": {
+            "name": "Wings of the Cryophoenix",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06FR038.png",
+            "cost": 7,
+            "type": "spell"
+      },
+      "06FR030": {
+            "name": "Harbinger of Thralls",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06FR030.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "06FR039": {
+            "name": "Wildclaw's Ferocity",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06FR039.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "06FR028": {
+            "name": "Revna, the Lorekeeper",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06FR028.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "06FR037": {
+            "name": "Cracking Ice",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06FR037.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "06FR017": {
+            "name": "Icevale Cultist",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06FR017.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "06FR034": {
+            "name": "The Unforgiving Cold",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06FR034.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "06FR020": {
+            "name": "Fracture",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06FR020.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06FR040": {
+            "name": "Warden of the Tribes",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06FR040.png",
+            "cost": 9,
+            "type": "follower"
+      }
+}

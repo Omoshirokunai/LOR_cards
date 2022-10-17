@@ -1,0 +1,818 @@
+{
+      "01SI038": {
+            "name": "Phantom Prankster",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI038.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01SI049": {
+            "name": "Glimpse Beyond",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI049.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01SI053": {
+            "name": "Elise",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI053.png",
+            "cost": 2,
+            "type": "champion"
+      },
+      "01SI057": {
+            "name": "Ancient Crocolith",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI057.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01SI023": {
+            "name": "Soul Shepherd",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI023.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01SI010": {
+            "name": "Onslaught of Shadows",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI010.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01SI042": {
+            "name": "Hecarim",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI042.png",
+            "cost": 6,
+            "type": "champion"
+      },
+      "01SI027": {
+            "name": "Fresh Offerings",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI027.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01SI048": {
+            "name": "Cursed Keeper",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI048.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01SI018": {
+            "name": "Scribe of Sorrows",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI018.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01SI030": {
+            "name": "Kalista",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI030.png",
+            "cost": 3,
+            "type": "champion"
+      },
+      "01SI035": {
+            "name": "Rhasa the Sunderer",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI035.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "01SI002": {
+            "name": "Spiderling",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI002.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01SI024": {
+            "name": "Spectral Rider",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI024.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01SI005": {
+            "name": "Scuttlegeist",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI005.png",
+            "cost": 10,
+            "type": "follower"
+      },
+      "01SI037": {
+            "name": "Sinister Poro",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI037.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01SI052": {
+            "name": "Thresh",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI052.png",
+            "cost": 5,
+            "type": "champion"
+      },
+      "01SI033": {
+            "name": "Commander Ledros",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI033.png",
+            "cost": 9,
+            "type": "follower"
+      },
+      "01SI003": {
+            "name": "The Harrowing",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI003.png",
+            "cost": 10,
+            "type": "spell"
+      },
+      "01SI041": {
+            "name": "The Undying",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI041.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01SI045": {
+            "name": "Absorb Soul",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI045.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "01SI036": {
+            "name": "Crawling Sensation",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI036.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "01SI051": {
+            "name": "Tortured Prodigy",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI051.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01SI012": {
+            "name": "Oblivious Islander",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI012.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01SI031": {
+            "name": "Iron Harbinger",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI031.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01SI034": {
+            "name": "Black Spear",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI034.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01SI043": {
+            "name": "Hapless Aristocrat",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI043.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01SI009": {
+            "name": "Stirred Spirits",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI009.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01SI007": {
+            "name": "Haunted Relic",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI007.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01SI056": {
+            "name": "Frenzied Skitterer",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI056.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01SI001": {
+            "name": "Vengeance",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI001.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "01SI019": {
+            "name": "The Box",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI019.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "01SI014": {
+            "name": "Mistwraith",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI014.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01SI022": {
+            "name": "Mark of the Isles",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI022.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "01SI006": {
+            "name": "Possession",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI006.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "01SI028": {
+            "name": "Splinter Soul",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI028.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01SI025": {
+            "name": "Atrocity",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI025.png",
+            "cost": 7,
+            "type": "spell"
+      },
+      "01SI011": {
+            "name": "Ravenous Butcher",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI011.png",
+            "cost": 0,
+            "type": "follower"
+      },
+      "01SI046": {
+            "name": "Mist's Call",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI046.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "01SI050": {
+            "name": "Brood Awakening",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI050.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "01SI016": {
+            "name": "Wraithcaller",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI016.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01SI021": {
+            "name": "Shark Chariot",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI021.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01SI032": {
+            "name": "Chronicler of Ruin",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI032.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "01SI058": {
+            "name": "Ethereal Remitter",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI058.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "01SI054": {
+            "name": "Grasp of the Undying",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI054.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "01SI044": {
+            "name": "Spectral Matron",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI044.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "01SI039": {
+            "name": "Arachnoid Horror",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI039.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "01SI020": {
+            "name": "The Rekindler",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI020.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "01SI029": {
+            "name": "Withering Wail",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI029.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "01SI004": {
+            "name": "Darkwater Scourge",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI004.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "01SI026": {
+            "name": "Warden's Prey",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI026.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "01SI040": {
+            "name": "Vile Feast",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI040.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "01SI015": {
+            "name": "The Ruination",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI015.png",
+            "cost": 9,
+            "type": "spell"
+      },
+      "01SI055": {
+            "name": "Soulgorger",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI055.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "01SI047": {
+            "name": "Fading Memories",
+            "art": "http://dd.b.pvp.net/3_17_0/set1/en_us/img/cards/01SI047.png",
+            "cost": 0,
+            "type": "spell"
+      },
+      "02SI005": {
+            "name": "Sap Magic",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02SI005.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "02SI010": {
+            "name": "Deadbloom Wanderer",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02SI010.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "02SI008": {
+            "name": "Maokai",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02SI008.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "02SI007": {
+            "name": "Thorny Toad",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02SI007.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "02SI003": {
+            "name": "Terror of the Tides",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02SI003.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "02SI001": {
+            "name": "Neverglade Collector",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02SI001.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "02SI002": {
+            "name": "Overgrown Snapvine",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02SI002.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "02SI004": {
+            "name": "Blighted Caretaker",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02SI004.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "02SI006": {
+            "name": "Barkbeast",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02SI006.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "02SI009": {
+            "name": "Sapling Toss",
+            "art": "http://dd.b.pvp.net/3_17_0/set2/en_us/img/cards/02SI009.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "03SI009": {
+            "name": "Vaults of Helia",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI009.png",
+            "cost": 5,
+            "type": "landmark"
+      },
+      "03SI008": {
+            "name": "Crumble",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI008.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "03SI004": {
+            "name": "Stalking Shadows",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI004.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03SI001": {
+            "name": "Evershade Stalker",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI001.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "03SI018": {
+            "name": "Gluttony",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI018.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03SI012": {
+            "name": "Passage Unearned",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI012.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "03SI014": {
+            "name": "Encroaching Shadows",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI014.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "03SI016": {
+            "name": "Go Hard",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI016.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "03SI007": {
+            "name": "Shroud of Darkness",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI007.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "03SI013": {
+            "name": "Risen Mists",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI013.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "03SI005": {
+            "name": "Nocturne",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI005.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "03SI006": {
+            "name": "Doombeast",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI006.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "03SI015": {
+            "name": "Pesky Specter",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI015.png",
+            "cost": 0,
+            "type": "follower"
+      },
+      "03SI003": {
+            "name": "Stygian Onlooker",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI003.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "03SI002": {
+            "name": "Unspeakable Horror",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI002.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "03SI010": {
+            "name": "Duskrider",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03SI010.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "04SI005": {
+            "name": "Kindred",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI005.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "04SI055": {
+            "name": "Viego",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI055.png",
+            "cost": 6,
+            "type": "champion"
+      },
+      "04SI016": {
+            "name": "Spirit Leech ",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI016.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "04SI007": {
+            "name": "The Etherfiend",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI007.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "04SI011": {
+            "name": "Unto Dusk",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI011.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04SI018": {
+            "name": "The Twisted Treeline",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI018.png",
+            "cost": 3,
+            "type": "landmark"
+      },
+      "04SI015": {
+            "name": "Sea Scarab",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI015.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "04SI045": {
+            "name": "Encroaching Mist",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI045.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "04SI004": {
+            "name": "The Wings and The Wave",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI004.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "04SI017": {
+            "name": "Song of the Isles",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI017.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04SI054": {
+            "name": "Camavoran Soldier",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI054.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "04SI001": {
+            "name": "Lamb's Respite",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI001.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "04SI056": {
+            "name": "Withering Mist",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI056.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "04SI012": {
+            "name": "Astral Fox",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI012.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "04SI029": {
+            "name": "Despair",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI029.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "04SI009": {
+            "name": "Soulspinner",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI009.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "04SI013": {
+            "name": "Mask Mother",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI013.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "04SI021": {
+            "name": "Crawling Viperwyrm",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI021.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "04SI002": {
+            "name": "Spirit Journey",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI002.png",
+            "cost": 5,
+            "type": "spell"
+      },
+      "04SI053": {
+            "name": "Invasive Hydravine",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI053.png",
+            "cost": 7,
+            "type": "follower"
+      },
+      "04SI003": {
+            "name": "Fading Icon",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI003.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "04SI014": {
+            "name": "Prey",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI014.png",
+            "cost": 0,
+            "type": "follower"
+      },
+      "04SI028": {
+            "name": "Camavoran Dragon",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04SI028.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05SI014": {
+            "name": "Catalogue of Regrets",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI014.png",
+            "cost": 4,
+            "type": "landmark"
+      },
+      "05SI013": {
+            "name": "Mistkeepers",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI013.png",
+            "cost": 5,
+            "type": "follower"
+      },
+      "05SI009": {
+            "name": "Senna",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI009.png",
+            "cost": 5,
+            "type": "champion"
+      },
+      "05SI016": {
+            "name": "Dawning Shadow",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI016.png",
+            "cost": 7,
+            "type": "spell"
+      },
+      "05SI004": {
+            "name": "Watcher on the Isles",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI004.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "05SI012": {
+            "name": "Solari Sentinel",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI012.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "05SI008": {
+            "name": "Ixtali Sentinel",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI008.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "05SI003": {
+            "name": "Piercing Darkness",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI003.png",
+            "cost": 6,
+            "type": "spell"
+      },
+      "05SI029": {
+            "name": "Darkness",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI029.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "05SI010": {
+            "name": "Dess & Ada",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI010.png",
+            "cost": 8,
+            "type": "follower"
+      },
+      "05SI011": {
+            "name": "Burgeoning Sentinel",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI011.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "05SI015": {
+            "name": "Buhru Sentinel",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05SI015.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "06SI012": {
+            "name": "Gwen",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI012.png",
+            "cost": 4,
+            "type": "champion"
+      },
+      "06SI020": {
+            "name": "Hate Spike",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI020.png",
+            "cost": 2,
+            "type": "spell"
+      },
+      "06SI013": {
+            "name": "Eternal Dancers",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI013.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "06SI037": {
+            "name": "Shadow Isles Tellstones",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI037.png",
+            "cost": 1,
+            "type": "spell"
+      },
+      "06SI040": {
+            "name": "Harrowing Return",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI040.png",
+            "cost": 4,
+            "type": "spell"
+      },
+      "06SI009": {
+            "name": "Ghastly Band",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI009.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "06SI027": {
+            "name": "Thread the Needle",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI027.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "06SI018": {
+            "name": "Vora",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI018.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "06SI015": {
+            "name": "Strike Up The Band",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI015.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "06SI030": {
+            "name": "Formal Invitation",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI030.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "06SI026": {
+            "name": "Conductor Of The Mists",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI026.png",
+            "cost": 3,
+            "type": "follower"
+      },
+      "06SI033": {
+            "name": "Haunted Tomb",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI033.png",
+            "cost": 3,
+            "type": "landmark"
+      },
+      "06SI016": {
+            "name": "Boisterous Host",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI016.png",
+            "cost": 1,
+            "type": "follower"
+      },
+      "06SI028": {
+            "name": "Phantom Butler",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI028.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "06SI043": {
+            "name": "Undergrowth",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI043.png",
+            "cost": 3,
+            "type": "spell"
+      },
+      "06SI022": {
+            "name": "Ghostly Paramour",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI022.png",
+            "cost": 4,
+            "type": "follower"
+      },
+      "06SI019": {
+            "name": "Sultur",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06SI019.png",
+            "cost": 2,
+            "type": "follower"
+      },
+      "06SI014": {
+            "name": "Opulent Foyer",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06SI014.png",
+            "cost": 3,
+            "type": "landmark"
+      },
+      "06SI034": {
+            "name": "Wraith of Echoes",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06SI034.png",
+            "cost": 6,
+            "type": "follower"
+      },
+      "06SI041": {
+            "name": "Moonlit Glenkeeper",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06SI041.png",
+            "cost": 3,
+            "type": "follower"
+      }
+}

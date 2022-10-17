@@ -1,0 +1,22 @@
+{
+      "06RU025": {
+            "name": "Evelynn",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06RU025.png",
+            "cost": 4
+      },
+      "06RU001": {
+            "name": "Bard",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06RU001.png",
+            "cost": 4
+      },
+      "06RU002": {
+            "name": "Jhin",
+            "art": "http://dd.b.pvp.net/3_17_0/set6/en_us/img/cards/06RU002.png",
+            "cost": 4
+      },
+      "06RU009": {
+            "name": "Varus",
+            "art": "http://dd.b.pvp.net/3_17_0/set6cde/en_us/img/cards/06RU009.png",
+            "cost": 4
+      }
+}

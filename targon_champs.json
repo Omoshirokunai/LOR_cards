@@ -1,0 +1,47 @@
+{
+      "03MT217": {
+            "name": "Aphelios",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT217.png",
+            "cost": 3
+      },
+      "03MT056": {
+            "name": "Diana",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT056.png",
+            "cost": 2
+      },
+      "03MT055": {
+            "name": "Soraka",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT055.png",
+            "cost": 3
+      },
+      "03MT054": {
+            "name": "Leona",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT054.png",
+            "cost": 5
+      },
+      "03MT058": {
+            "name": "Taric",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT058.png",
+            "cost": 4
+      },
+      "03MT009": {
+            "name": "Zoe",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT009.png",
+            "cost": 1
+      },
+      "03MT087": {
+            "name": "Aurelion Sol",
+            "art": "http://dd.b.pvp.net/3_17_0/set3/en_us/img/cards/03MT087.png",
+            "cost": 10
+      },
+      "04MT008": {
+            "name": "Malphite",
+            "art": "http://dd.b.pvp.net/3_17_0/set4/en_us/img/cards/04MT008.png",
+            "cost": 7
+      },
+      "05MT003": {
+            "name": "Pantheon",
+            "art": "http://dd.b.pvp.net/3_17_0/set5/en_us/img/cards/05MT003.png",
+            "cost": 4
+      }
+}
